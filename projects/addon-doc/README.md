@@ -22,7 +22,7 @@ npm i @taiga-ui/addon-doc
 
 ## How to use
 
-1. Include `TuiDocMainModule` in your App module and use in your template:
+1. Include `TuiDocMainModule` in your App module and use it in your template:
 
     ```html
     <tui-doc-main>
@@ -90,8 +90,8 @@ npm i @taiga-ui/addon-doc
     ];
     ```
 
-    > You must have title in route data in order for `TUI_DOC_SEE_ALSO` to work.
-    > It would also be automatically added to `TUI_DOC_TITLE` for browser tab title
+    > You must have a title in the route data in order for `TUI_DOC_SEE_ALSO` to work.
+    > It would also be automatically added to `TUI_DOC_TITLE` for the browser tab title
     > when navigating to that route.
 
 5. Create pages.
@@ -144,7 +144,7 @@ npm i @taiga-ui/addon-doc
     <tui-doc-page header="Super" package="SUPER-PACKAGE" deprecated>
         <ng-template pageTab>
             <!-- default tab name would be used -->
-            This would be the content of a first tab
+            This would be the content of the first tab
 
             <tui-doc-example
                 id="basic-example"
