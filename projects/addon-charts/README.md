@@ -8,7 +8,7 @@
 
 > Extension package for Taiga UI that adds various charts, graphs and related components
 
-It's a part of [**Taiga UI**](https://github.com/TinkoffCreditSystems/taiga-ui) that is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons
+It's a part of [**Taiga UI**](https://github.com/TinkoffCreditSystems/taiga-ui) that is a fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons
 
 ## How to install
 
@@ -24,7 +24,7 @@ Install addon-charts:
 npm i @taiga-ui/addon-charts
 ```
 
-Don't forget that Taiga UI is fully-treeshakable. **You can import even just one entity from our library** and be sure that there is no redundant code in your bundle. Bundlphobia badge shows size of the whole library.
+Don't forget that Taiga UI is fully-treeshakable. **You can even import just one entity from our library** and be sure that there is no redundant code in your bundle. Bundlphobia badge shows size of the whole library.
 
 ## Docs
 
