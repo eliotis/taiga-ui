@@ -7,15 +7,15 @@
 
 [Website](https://taiga-ui.dev) • [Documentation](https://taiga-ui.dev/getting-started) • [CDK Wiki](https://github.com/TinkoffCreditSystems/taiga-ui/wiki) • [Core team](#core-team)
 
-**Taiga UI** is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.
+**Taiga UI** is a fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.
 
 It is based on [ng-polymorpheus](https://github.com/TinkoffCreditSystems/ng-polymorpheus) dynamic content approach and uses [Web APIs for Angular](https://github.com/ng-web-apis) for required browser APIs.
 
 ## Why Taiga UI
 
-🧩 **Modular and fully-treeshakable.** We harnessed the power of Secondary Entry Points mechanism. You can import even just one entity from our library and be sure that there is no redundant code in your bundle
+🧩 **Modular and fully-treeshakable.** We harnessed the power of the Secondary Entry Points mechanism. You can import even just one entity from our library and be sure that there is no redundant code in your bundle
 
-🧙 **Agnostic**. Our components are very flexible and are ready for any usecase. But we take care of basic UX aspects to let you focus on your project features
+🧙 **Agnostic**. Our components are very flexible and are ready for any use case. But we take care of basic UX aspects to let you focus on your project's features
 
 🦋 **Customizable**. We use CSS custom properties for all our styling and provide easy methods to customize all UI components
 
@@ -29,7 +29,7 @@ It is based on [ng-polymorpheus](https://github.com/TinkoffCreditSystems/ng-poly
 
 See our [Getting started](https://taiga-ui.dev/getting-started) page to start working with Taiga UI
 
-> If you want to use cdk tools only, see [CDK Wiki](https://github.com/TinkoffCreditSystems/taiga-ui/wiki)
+> If you only want to use the cdk tools, see [CDK Wiki](https://github.com/TinkoffCreditSystems/taiga-ui/wiki)
 
 ## Community
 
